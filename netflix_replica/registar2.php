@@ -26,17 +26,17 @@
     </header>
 
     <div class="content-2">
-        <p class="step">STEP <b>2</b> OF <b>3</b></p>
+        <p class="step">STEP <b>1</b> OF <b>3</b></p>
         <p class="instruction">Create a password to start your membership.</p>
         <p class="introce">Just a few more steps and you're done!<br>We hate paperwork, too.</p>
         <form>
             <input type="text" class="form-control home_email_input" placeholder="Email">
             <input type="text" class="form-control home_email_input" placeholder="Add a password">
             <button type="submit" class="continue1" name="continue">
-                <a href="registar2.php" class="transfer_link">CONTINUE</a></button>
+                <a href="planform.html" class="transfer_link">CONTINUE</a></button>
 
         </form>
-    <div>
+    </div>
 
 
     <footer class="center">
@@ -75,5 +75,6 @@
         </div>
       </div>
     </footer>
+
 </body>
 </html>
