@@ -1,0 +1,10 @@
+/*XiaQian*/
+
+/*Movie Land in page*/
+
+body{
+    background-image: url('../img/movie_home.png');
+    /* background-position: center; */
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
